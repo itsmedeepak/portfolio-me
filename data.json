@@ -1,0 +1,242 @@
+{
+  "main": {
+    "name": "Deepak Kumar",
+    "shortDesc": "A Software Developer specializing in backend technologies. With a strong foundation in C, C++, Python, and expertise in Next.js, Express.js, and MongoDB, I've excelled in developing robust and scalable solutions.",
+    "titles": [
+      "Frontend Development",
+      "Backend Development",
+      "Full Stack Developer"
+    ],
+    "heroImage": "https://i.imgur.com/vy1D8CS.png",
+    "techStackImages": [
+      "https://img.icons8.com/color/144/000000/material-ui.png",
+      "https://img.icons8.com/color/144/000000/html-5--v1.png",
+      "https://img.icons8.com/color/144/000000/redux.png",
+      "https://img.icons8.com/color/144/000000/chakra-ui.png"
+    ]
+  },
+  "about": {
+    "aboutImage": "https://i.imgur.com/kfExax6.png",
+    "aboutImageCaption": "< I build stuff 🚀/>",
+    "title": "Full Stack Developer",
+    "about": "Hello, I'm Deepak Kumar, a Computer Science and Engineering student at C.V Raman Global University. I bring a robust skill set in C, C++, Python, Java, and Javascript, with hands-on experience as a Software Developer Intern at PatAlgo. Proficient in Next.js, React.js, and MongoDB, I've developed feature-rich projects like an eCommerce Admin Panel and Quiz Funnel. As a top 1% qualifier in the Facebook HackerCup 2022 and CodeChef 3-star rating holder, I'm passionate about competitive programming, solved more than 800 DSA problem accross multiple platform. I've also contributed to open-source projects during Outreachy'22 spring cohort and Hacktoberfest'22. Eager to bring my problem-solving skills to impactful tech projects. I'm constantly pushing myself to learn and grow as a developer. Love building robust and scalable applications.",
+    "callUrl": "https://topmate.io/itsmedeepak071",
+    "resumeUrl": "https://drive.google.com/file/d/1G8pHgqC-7shdy4B1Bu9VwSpxPQRokGjW/view"
+  },
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/programdns/"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/itsmedeepak"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/itsmedeepak071/"
+    },
+    {
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/itsmeedepak"
+    }
+  ],
+  "skills": [
+    
+    {
+      "name": "NextJs",
+      "image": "https://i.imgur.com/fXRzoGa.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "ReactJs",
+      "image": "https://i.imgur.com/a236HlM.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Tailwind CSS",
+      "image": "https://i.imgur.com/4x8KkfI.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "HTML",
+      "image": "https://i.imgur.com/9z4iLtM.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "CSS",
+      "image": "https://i.imgur.com/N64U4f1.png",
+      "category": "Frontend"
+    },
+
+    {
+      "name": "NodeJs",
+      "image": "https://i.imgur.com/TzWpa6T.png",
+      "category": "Backend"
+    },
+    {
+      "name": "ExpressJs",
+      "image": "https://i.imgur.com/wGetpC4.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Firebase",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Backend"
+    },
+    {
+      "name": "MongoDB",
+      "image": "https://i.imgur.com/K26vmX2.png",
+      "category": "Backend"
+    },
+    {
+      "name": "MySql",
+      "image": "https://i.imgur.com/fvtFMej.png",
+      "category": "Backend"
+    },
+    {
+      "name": "RestAPI",
+      "image": "https://i.imgur.com/AMjQ8Fx.png",
+      "category": "Backend"
+    },
+
+
+    
+    {
+      "name": "GitHub",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "Tools"
+    },
+    {
+      "name": "VS Code",
+      "image": "https://i.imgur.com/kfmIAxk.png",
+      "category": "Tools"
+    },
+    {
+      "name": "PostMan",
+      "image": "https://i.imgur.com/5SQX5gH.png",
+      "category": "Tools"
+    },
+    {
+      "name": "NPM",
+      "image": "https://i.imgur.com/xeVVX4l.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Linux",
+      "image": "https://i.imgur.com/k58BY0d.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Linux",
+      "image": "https://i.imgur.com/4ORxcSa.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Jira",
+      "image": "https://i.imgur.com/JIbKlTs.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Jira",
+      "image": "https://i.imgur.com/498N9Z0.png",
+      "category": "Tools"
+    }
+  ],
+  "projects": [
+   
+    
+    {
+      "name": "Zigyflow",
+      "techstack": "ReactJs",
+      "category": "MERN Stack",
+      "image": "https://i.imgur.com/qNkPpSZ.png",
+      "links": {
+        "code": "https://github.com/itsmedeepak/zigyflow",
+        "video": "",
+        "visit": "https://zigyflow.com/"
+      }
+    },
+    {
+      "name": "Quiz Funnel",
+      "techstack": "Nextjs, Tailwind CSS",
+      "category": "MERN Stack",
+      "image": "https://i.imgur.com/3Vc9xIg.png",
+      "links": {
+        "code": "https://github.com/itsmedeepak/quiz-funnel",
+        "video": "",
+        "visit": "https://quizfunnel-itsmedeepak.vercel.app/"
+      }
+    },
+    {
+      "name": "ECommerce Admin Panel",
+      "techstack": "Nextjs, Nodejs, Expressjs, MongoDB, AWS ",
+      "category": "MERN Stack",
+      "image": "https://i.imgur.com/hNGjeoJ.png",
+      "links": {
+        "code": "https://github.com/itsmedeepak/ecommerce-admin-panel",
+        "video": "",
+        "visit": "https://ecommerce-admin-panel-itsmedeepak.vercel.app/"
+      }
+    }
+  ],
+  "educations": [
+    
+    {
+      "institute": "British English School ",
+      "degree": "Intermediate  | CBSE | Percentage: 80.60",
+      "duration": "2018 - 2019"
+    },
+    {
+      "institute": "C.V Raman Global University",
+      "degree": "B.Tech CSE | CGPA: 8.6",
+      "duration": "2020 - 2024"
+    }
+
+  ],
+  "experiences": [
+    
+    {
+      "company": "Padhhigh",
+      "position": "Frontend Developer",
+      "duration": "Jan 2021 - Mar 2022",
+      "desc": [
+        "Contributed to Padhigh.com, an educational platform with curriculum-aligned videos.",
+        "Focused on ensuring responsive design across devices (phone, tab, desktop).",
+        "Collaborated on feature integration and optimized page performance.",
+        "Skills: HTML · CSS · JavaScript."
+      ]
+    },
+    {
+      "company": "IIT Roorkee (Indian Institute of Technology Roorkee)",
+      "position": "Summer Research Intern",
+      "duration": "July 2022 - Sep 2022",
+      "desc": [
+        "Reviewed OAI 5G codebase, ensuring compliance standards and identified areas for refinement to enhance performance",
+        "Led code review reports and offered actionable recommendations to the team for codebase improvement, which resulted in a remarkable 30% reduction in bug-related issues, ensured enhanced software quality.",
+        "Collaborated with team members using version control systems such as Git to organize modifications and assign tasks",
+        "Worked under the guidance of Prof. Ekant Sharma, a leading expert in the field of 5G technology",
+        "Skills:  C · C++ · Git"
+      ]
+    },
+    {
+      "company": "PatAlgo",
+      "position": "Software Developer Intern",
+      "duration": "Dec 2022 - Oct 2023",
+      "desc": [
+        "Developed user-friendly website, resulting in 85% increase in online visibility and improved search rankings. And also integrated secure payment gateway (Stripe), which has led to a smooth checkout process and increased sales by 35%",
+        "Implemented an advanced admin panel and interactive dashboards to streamline operations, that boost productivity and achieve data-driven results, resulting in a remarkable 20% growth and driving significant customer satisfaction.",
+        "Leveraged server-side rendering and employed SEO techniques, resulting in a significant 59% reduction in page load time from 4.5 seconds to an impressive 1.85 seconds, enhancing user experience and driving increased website engagement.",
+        "Upgraded API versions from v1 to v3, results in optimized data retrieval speed, a 13% decrease in overall instance load, and enhanced overall system performance to efficiently meet user demands.",
+        "Skills: Nextjs · MongoDB · RestApi · AWS · Figma"
+      ]
+    }
+    
+    
+  ]
+}
