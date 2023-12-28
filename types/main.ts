@@ -26,8 +26,8 @@ type experience = {
 type education = {
     institute: string,
     degree: string,
-    startDate: string,
-    endDate: string,
+    duration: string,
+    desc: string[]
 }
 
 type main = {

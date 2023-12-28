@@ -25,18 +25,22 @@
   },
   "socials": [
     {
+      "name":"",
       "icon": "FaLinkedin",
       "link": "https://www.linkedin.com/in/programdns/"
     },
     {
+      "name":"",
       "icon": "FaGithub",
       "link": "https://github.com/itsmedeepak"
     },
     {
+      "name":"",
       "icon": "FaInstagram",
       "link": "https://www.instagram.com/itsmedeepak071/"
     },
     {
+      "name":"",
       "icon": "FaTwitter",
       "link": "https://twitter.com/itsmeedepak"
     }
@@ -190,12 +194,17 @@
     {
       "institute": "British English School ",
       "degree": "Intermediate  | CBSE | Percentage: 80.60",
-      "duration": "2018 - 2019"
+      "duration": "2018 - 2019",
+      "desc": [
+
+      ]
     },
     {
       "institute": "C.V Raman Global University",
       "degree": "B.Tech CSE | CGPA: 8.6",
-      "duration": "2020 - 2024"
+      "duration": "2020 - 2024",
+      "desc": [
+      ]
     }
 
   ],

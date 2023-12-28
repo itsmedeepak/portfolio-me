@@ -1,16 +1,16 @@
-// import type { NextApiRequest, NextApiResponse } from "next";
-// import sgMail from "@sendgrid/mail";
+import type { NextApiRequest, NextApiResponse } from "next";
+import sgMail from "@sendgrid/mail";
 
-// sgMail.setApiKey(process.env.SENDGRID_API_KEY || '');
+sgMail.setApiKey(process.env.SENDGRID_API_KEY || '');
 
-// type Data = {
-//     message: string;
-// };
+type Data = {
+    message: string;
+};
 
-// export default async function handler(
-//     req: NextApiRequest,
-//     res: NextApiResponse<Data>
-// ) {
+export default async function handler(
+    req: NextApiRequest,
+    res: NextApiResponse<Data>
+) {
 //     if (req.method === "POST") {
 //         const {
 //             name,
@@ -32,4 +32,4 @@
 //             res.status(500).json({ message: `There was an error sending your message. ${err}` });
 //         }
 //     }
-// }
+}
